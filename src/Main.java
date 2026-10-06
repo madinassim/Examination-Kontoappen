@@ -11,4 +11,3 @@ void main() {
 
     account1.withdraw(300);
     System.out.println(account1.getBalance());
-}
