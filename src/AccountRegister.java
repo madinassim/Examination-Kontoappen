@@ -3,9 +3,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class AccountRegister {
-    private List <Account> accounts = new ArrayLit<>();
+    private List <Account> accounts = new ArrayList<>();
 
-    public void CreateAccount(String owner, double balance) {
+    public void createAccount(String owner, double balance) {
         Account account = new Account(owner, balance);
         accounts.add(account);
     }
