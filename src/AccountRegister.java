@@ -11,7 +11,7 @@ public class AccountRegister {
     }
     public void showAccounts() {
         for (Account account : accounts) {
-            System.out.println(account.getOwner() + " - " + account.getBalance());
+            System.out.println(account.getOwner() + " saldo: " + account.getBalance());
         }
     }
     public Account findAccount(String owner) {
