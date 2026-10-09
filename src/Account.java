@@ -20,9 +20,8 @@ public class Account {
     public void withdraw (double amount) {
         if (amount <= balance) {
             balance = balance - amount;
-        }  else {
-            System.out.println("Du har inte tillräckligt med pengar på kontot");
-        }
+        }  else System.out.println("Du har inte tillräckligt med pengar på kontot");
     }
 }
+
 

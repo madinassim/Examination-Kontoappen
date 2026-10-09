@@ -1,3 +1,4 @@
+https://funet-my.sharepoint.com/personal/3kdyhapp26_nasima_folkuniversitetet_nu/_layouts/15/stream.aspx?id=%2Fpersonal%2F3kdyhapp26%5Fnasima%5Ffolkuniversitetet%5Fnu%2FDocuments%2FInspelningar%2FMöte%20med%20Madina%20Nasim%20APP26%2D20261009%5F111728%2DMötesinspelning%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E80ab4b3f%2Ddbd2%2D4f36%2D8585%2D90e4de9a4548
 
 
 1. Datasäkerhet: Jag använder private för kontots uppgifter i Acount.
